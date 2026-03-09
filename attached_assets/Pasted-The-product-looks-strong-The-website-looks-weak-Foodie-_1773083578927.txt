@@ -1,0 +1,434 @@
+The product looks strong. The website looks weak.
+Foodie already has real business substance to work with: a physical location on Amagerbrogade, a phone number, online ordering, a broad menu, vegetarian/vegan/gluten-free options, and a clear quality angle around fresh sourdough bread. The site itself shows all of that, but it presents it in a dated, low-trust, low-conversion way.
+
+The biggest issues are not subtle. Multiple pages still use the generic title “Your Webpage Title,” the homepage pushes users into a long wall-of-text menu, the “View Full Menu” link goes to a 404, and the opening hours on the main site do not match the ordering flow. The main site says Monday–Friday 11:00 am–07:00 pm and Saturday 12:00 am–04:00 pm, while the ordering system shows Monday–Friday 11:00–18:00 and Saturday 11:30–15:00. That kind of inconsistency kills trust fast.
+
+Also, the current structure is upside down. Foodie is selling sandwiches and quick takeaway, but the site gives prominent space to pages like Apply for Job, a weak About Us page, a basic Gallery, and a contact form that says “Order Your Food Here” instead of clearly pushing people to the ordering platform. The brand feels more like an old template than a popular neighborhood food business.
+
+What Foodie should become
+
+Foodie’s website should do 4 things:
+
+Make the food look irresistible
+
+Make ordering effortless
+
+Make the brand feel local, popular, and trustworthy
+
+Help new customers decide in under 10 seconds
+
+That is the whole game.
+
+Positioning for the redesign
+
+Foodie should be positioned as:
+
+“A local Amager favorite for premium sandwiches, fresh bread, and fast takeaway.”
+
+Not “#1 take away restaurant.”
+That claim is generic and weak unless they can prove it. Better to sell what is actually believable:
+
+freshly baked sourdough
+
+standout sandwiches
+
+local pickup/delivery
+
+vegetarian/vegan/gluten-free options
+
+trusted neighborhood spot
+
+That is already supported by what they currently say about the bread and menu.
+
+What is wrong with the current site
+1. It does not sell visually
+
+From your screenshots, the hero image is dark, unclear, and storefront-led instead of food-led. For a sandwich business, that is the wrong first impression. The food should be the hero, not the facade.
+
+2. It makes the menu feel harder than it should
+
+The homepage drops users into a very long text menu with mixed Danish/English naming and minimal structure. That might contain information, but it does not create appetite.
+
+3. It creates trust issues
+
+The broken menu link, generic metadata, awkward hour formatting, and conflicting opening hours all signal neglect. People may still order, but new customers will hesitate.
+
+4. It wastes navigation space
+
+Top-nav items should be built around customer intent:
+Menu, Order, About, Find Us, Catering
+Not Apply for Job as a primary destination. That belongs in the footer.
+
+5. It undersells the differentiators
+
+The best copy currently on the site is the bread section. That should be a selling point on the homepage, not buried between template-style sections.
+
+What I would build instead
+Recommended sitemap
+
+Home
+Menu
+Order Online
+About Foodie
+Find Us
+Catering / Large Orders
+Gallery
+Jobs (footer only)
+
+That is cleaner and much closer to how real customers think.
+
+Homepage structure
+1. Hero
+
+Big, sharp food photography. One killer sandwich close-up. Clean headline.
+
+Suggested direction:
+
+Fresh sourdough sandwiches in Amager
+Premium takeaway with bold flavors, vegan options, and fast online ordering.
+
+Buttons:
+Order now
+See menu
+
+Under that:
+
+Amagerbrogade 13
+
+Open today until X
+
+Pickup / Delivery
+
+4.5★ style social proof if verified and used properly
+
+2. Bestsellers section
+
+Show 4–6 top items with photos, short descriptions, and price.
+
+Examples based on their current menu:
+
+Pesto Chicken
+
+Egyptian Kebab
+
+Falafel Sandwich
+
+Avocado Sandwich
+
+Chili Beef
+
+Baba Chicken
+
+3. Why Foodie
+
+Three tight cards:
+
+Fresh sourdough daily
+
+Bold sandwich combinations
+
+Vegetarian, vegan, gluten-free options
+
+That is clearer than generic lifestyle copy.
+
+4. Signature bread story
+
+Take the existing bread copy and tighten it hard:
+fresh daily, slow rise, 48 hours, vegan, distinct taste.
+That is brand-building copy with real substance.
+
+5. Menu preview
+
+Visually grouped cards:
+
+Sandwiches
+
+Plates
+
+Sides & Dips
+
+Desserts
+
+Drinks
+
+6. Social proof / local trust
+
+hygiene/smiley link
+
+map/location
+
+opening hours
+
+customer reviews
+
+“Loved in Amager” style framing if supported
+
+The current site already references the smiley reports and location, but they’re buried and visually clumsy.
+
+7. Final CTA
+
+Hungry? Order Foodie now
+Pickup and delivery from Amagerbrogade.
+
+Menu page strategy
+
+This page matters a lot.
+
+Right now the ordering platform is doing the real commerce work, while the website is acting like a messy brochure. The new website should become a clean decision-making layer before the user clicks into checkout.
+
+The menu page should have:
+
+category tabs at the top
+
+strong item photography
+
+short, standardized descriptions
+
+dietary tags: V / VG / GF option
+
+prices
+
+“Order now” deep links
+
+Do not make users read a giant block of items like the current homepage does.
+
+Copy direction
+
+Foodie needs simpler, tighter, more confident language.
+
+The current copy is mixed-language and sometimes awkward, for example the About page text and phrases like “Order Your Food Here” on the contact form.
+
+The tone should be:
+
+warm
+
+local
+
+appetizing
+
+direct
+
+premium but unpretentious
+
+Example homepage copy
+
+Fresh sandwiches. Proper bread. Big flavor.
+At Foodie on Amagerbrogade, we bake our sourdough fresh and fill it with bold ingredients, from pesto chicken and Egyptian kebab to falafel, avocado, and baba ganoush. Order online for pickup or delivery.
+
+That is much stronger than the current copy style.
+
+Visual direction
+
+Foodie does not need a complicated design system. It needs a cleaner, more premium version of what it already hints at.
+
+Design direction
+
+warm off-white background
+
+charcoal / deep olive / muted sand accents
+
+crisp typography
+
+fewer decorative flourishes
+
+larger food imagery
+
+more whitespace
+
+better mobile card layouts
+
+The current black/gold/template aesthetic feels old WordPress restaurant theme. The new look should feel more like:
+modern Copenhagen takeaway brand
+not
+2017 generic restaurant template
+
+Photography direction
+
+This is non-negotiable. Foodie needs a proper photo refresh.
+
+Based on your screenshots, the images are unclear and inconsistent. That is a major problem because sandwiches are highly visual.
+
+Must-have shot list
+
+8–12 hero food photos
+
+6 isolated bestseller shots
+
+3 overhead table spreads
+
+2–3 in-store shots with warmth and activity
+
+close-up bread/prep shots
+
+packaging / takeaway bag shots
+
+one team/owner shot if possible
+
+Important rule
+
+No dark storefront hero as the primary homepage visual.
+Food first. Always.
+
+Conversion plan
+
+The website should be built around one primary action:
+
+Order online
+
+Everything else is secondary.
+
+Primary CTAs
+
+Order now
+
+See menu
+
+Secondary CTAs
+
+Find us
+
+Call us
+
+Catering inquiry
+
+Reduce friction
+
+sticky mobile order button
+
+consistent hours everywhere
+
+one source of truth for menu
+
+one-click map/directions
+
+order links on every menu section
+
+The current site has CTA buttons, but the surrounding experience is confusing and inconsistent.
+
+SEO / local search strategy
+
+Foodie has a strong local opportunity because this is exactly the kind of business people search by intent.
+
+Core targets:
+
+sandwich amager
+
+sandwich københavn s
+
+takeaway amagerbrogade
+
+vegansk sandwich amager
+
+frokost amager
+
+egyptisk sandwich københavn
+
+The current site is not helping enough here, especially with weak titles and thin page purpose. The fact that pages still show “Your Webpage Title” is a direct fix.
+
+Technical cleanup list
+
+This should be fixed immediately:
+
+replace all generic page titles
+
+fix the broken menu URL
+
+unify opening hours across site and ordering platform
+
+remove or demote “Apply for Job” from main navigation
+
+rewrite About page copy
+
+remove confusing “Order your food here” language from contact page
+
+optimize images and use sharp modern exports
+
+make the mobile hero shorter and clearer
+
+move job/contact/social clutter to the footer
+
+keep a persistent order CTA on mobile
+
+Best new page structure for Foodie specifically
+Home
+
+Brand + bestsellers + bread story + trust + CTA
+
+Menu
+
+Visual categories + order links
+
+About
+
+Short founder/food philosophy story, not vague template copy
+
+Find Us
+
+Map, address, hours, pickup/delivery info, parking/public transport note
+
+Catering / Office Lunch
+
+This is a sneaky growth page. Businesses nearby could order platters, sandwich lunch, or office catering.
+
+Gallery
+
+Only if the photos are excellent. Otherwise skip it.
+
+What I would say to Foodie as the business case
+
+Your food already looks like it could win customers.
+Your website currently makes the business feel smaller, older, and less trusted than it probably is.
+
+A redesign would not just be about “making it prettier.” It would:
+
+increase trust
+
+improve first impressions
+
+make ordering faster
+
+present bestsellers better
+
+support local SEO
+
+help turn curious visitors into paying customers
+
+That is the value.
+
+My priority order for this project
+
+Phase 1: Immediate fixes
+
+hours consistency
+
+broken menu link
+
+better homepage hero
+
+stronger CTA structure
+
+metadata cleanup
+
+Phase 2: Proper redesign
+
+new homepage
+
+visual menu page
+
+new copy
+
+photography refresh
+
+mobile-first UX
+
+Phase 3: Growth
+
+catering page
+
+review integration
+
+seasonal specials
+
+newsletter / loyalty
+
+landing pages for local SEO

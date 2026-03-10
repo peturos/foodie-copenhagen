@@ -53,6 +53,7 @@ export default function MenuPage() {
     async function loadMenu() {
       try {
         const items = await getMenuItems();
+        console.log("Sanity menu items:", items);
         setMenuItems(items || []);
       } catch (error) {
         console.error("Failed to load menu items from Sanity:", error);

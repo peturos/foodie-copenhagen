@@ -19,20 +19,26 @@ export async function getMenuItems() {
 export const homepageQuery = `
 *[_type == "homePage"][0]{
   siteTitle,
-  logo,
-  topBar,
-  navigation,
-  headerCta,
   hero,
-  bestsellers,
+  bestsellers{
+    eyebrow,
+    heading,
+    subheading,
+    ctaText,
+    featuredItems[]->{
+      _id,
+      title,
+      price,
+      shortDescription,
+      image,
+      tags
+    }
+  },
   whyFoodie,
   signatureSection,
   menuOverview,
   visitUs,
-  gallerySection,
-  ctaBanner,
-  footer,
-  seo
+  ctaBanner
 }
 `;
 
